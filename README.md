@@ -2,6 +2,7 @@
 Originally Submitted April 27, 2017 to Professor [Brian Smith](https://engineering.nd.edu/profiles/bsmith).
 
 ## Addendum:
+### TL;DR: Go to the [releases](https://github.com/nmarcopo/bombDefusal/releases) section to download the binary!
 At the time of writing this, over a year has passed since my group and I first submitted and presented this project to my Intro to Engineering class. It still stands as the most fun I've had with a programming project to date, mostly due to the chemistry of our team and the novelty of the project. Despite a few bumps early on and several all nighters close to the deadline, we pulled through and came to our demonstration day with a great project.  
 I'd like to emphasize that while I am very proud of this project and all of the work we put into it, this was our FIRST experience on any large programming project, and as a result the code is *really* messy. There's plenty of unused variables, poor style, and far too few comments for a project of this size. If you have any questions about what a line of code does, what a variable means, or anything else, feel free to contact me via my website, [nick.marcopo.li](http://nick.marcopo.li).  
 Thanks for checking out this project!  
